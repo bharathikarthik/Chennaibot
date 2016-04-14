@@ -1,0 +1,22 @@
+{
+  "name": "Azure",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharathikarthik/Chennaibot.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bharathikarthik/Chennaibot/issues"
+  },
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "~1.4.5"
+  }
+}
